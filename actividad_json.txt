@@ -1,0 +1,257 @@
+== EJERCICIOS JSON===
+
+== 1. Persona ==
+{
+  "nombre": "Carlos",
+  "edad": 28,
+  "genero": "Masculino",
+  "ciudad": "Bogotá"
+}
+
+== 2. Producto de tienda ==
+
+{
+  "nombre_producto": "Audífonos Bluetooth",
+  "precio": 85000,
+  "categoria": "Tecnología"
+}
+
+== 3. Vehículo ==
+{
+  "marca": "Toyota",
+  "modelo": "Corolla",
+  "año": 2019,
+  "color": "Blanco"
+}
+
+== 4. Curso ==
+{
+  "nombre_curso": "Programación Básica",
+  "duracion_horas": 40,
+  "modalidad": "Virtual"
+}
+
+== 5. Estudiante ==
+{
+  "nombre": "Laura Torres",
+  "identificacion": "1090485222",
+  "programa_academico": "Diseño Gráfico",
+  "activo": true
+}
+
+== 6. Libro ==
+
+{
+  "titulo": "Cien Años de Soledad",
+  "autor": "Gabriel García Márquez",
+  "numero_paginas": 496,
+  "editorial": "Sudamericana"
+}
+
+== 7. Animal doméstico ==
+
+{
+  "tipo": "Perro",
+  "nombre": "Luna",
+  "edad": 3,
+  "raza": "Labrador"
+}
+
+== 8. Empleado ==
+
+{
+  "nombre": "Sandra Pérez",
+  "cargo": "Auxiliar Administrativa",
+  "salario": 1800000,
+  "departamento": "Recursos Humanos"
+}
+
+== 9. Película ==
+{
+  "titulo": "El Viaje",
+  "genero": "Aventura",
+  "duracion_minutos": 120,
+  "año_estreno": 2021
+}
+
+== 10. Cuenta bancaria ==
+{
+  "titular": "Mateo Ríos",
+  "tipo_cuenta": "Ahorros",
+  "saldo_actual": 350000
+}
+
+== PARTE 2, NIVEL MEDIO==
+
+11. Persona con varias direcciones
+
+{
+  "nombre": "María López",
+  "direcciones": [
+    {
+      "ciudad": "Bogotá",
+      "calle": "Calle 45 #12-30",
+      "codigo_postal": "111221"
+    },
+    {
+      "ciudad": "Medellín",
+      "calle": "Carrera 80 #35-22",
+      "codigo_postal": "050034"
+    }
+  ]
+}
+
+12. Pedido en línea
+
+{
+  "cliente": "Juan Pérez",
+  "productos": [
+    {
+      "nombre": "Teclado Mecánico",
+      "precio": 120000
+    },
+    {
+      "nombre": "Mouse Gamer",
+      "precio": 85000
+    }
+  ],
+  "total": 205000
+}
+
+13. Estudiante con materias inscritas
+
+{
+  "nombre": "Sofía Ramírez",
+  "materias": [
+    {
+      "nombre_materia": "Matemáticas",
+      "nota": 4.5
+    },
+    {
+      "nombre_materia": "Inglés",
+      "nota": 3.8
+    }
+  ]
+}
+
+14. Empresa con empleados
+
+{
+  "empresa": "Tech Solutions",
+  "empleados": [
+    {
+      "nombre": "Carlos Mendoza",
+      "cargo": "Desarrollador",
+      "salario": 3200000
+    },
+    {
+      "nombre": "Ana Castillo",
+      "cargo": "Diseñadora",
+      "salario": 2800000
+    }
+  ]
+}
+
+15. Escuela con lista de grados
+
+{
+  "nombre": "Colegio San Marcos",
+  "direccion": "Av. Central #45-80",
+  "grados": [
+    "Primero",
+    "Segundo",
+    "Tercero",
+    "Cuarto",
+    "Quinto"
+  ]
+}
+
+16. Viaje con pasajeros
+
+{
+  "destino": "Cartagena",
+  "fecha_salida": "2025-06-15",
+  "fecha_regreso": "2025-06-20",
+  "pasajeros": [
+    {
+      "nombre": "Luis Torres",
+      "edad": 35
+    },
+    {
+      "nombre": "Daniela Gómez",
+      "edad": 29
+    }
+  ]
+}
+
+17. Producto con proveedores
+
+{
+  "producto": "Laptop",
+  "proveedores": [
+    {
+      "nombre": "Proveedor Uno",
+      "contacto": "3224567890"
+    },
+    {
+      "nombre": "Proveedor Dos",
+      "contacto": "3109988776"
+    }
+  ]
+}
+
+18. Evento deportivo con equipos
+
+{
+  "evento": "Copa Betplay",
+  "ubicacion": "Estadio Municipal",
+  "equipos": [
+    "Atletico Nacional",
+    "Águilas Doradas",
+    "America"
+  ]
+}
+
+19. Restaurante con menú
+
+{
+  "nombre": "La Buena Mesa",
+  "tipo_comida": "Comida Colombiana",
+  "horario": "10:00 a.m. - 9:00 p.m.",
+  "menu": [
+    {
+      "plato": "Bandeja Paisa",
+      "precio": 25000
+    },
+    {
+      "plato": "Ajiaco",
+      "precio": 21000
+    }
+  ]
+}
+
+20. Usuario con historial de compras
+
+{
+  "usuario": "Natalia Ruiz",
+  "historial_compras": [
+    {
+      "fecha": "2025-02-10",
+      "producto": "Zapatos deportivos",
+      "valor_total": 180000
+    },
+    {
+      "fecha": "2025-02-20",
+      "producto": "Chaqueta impermeable",
+      "valor_total": 220000
+    }
+  ]
+}
+
+
+
+
+
+
+
+

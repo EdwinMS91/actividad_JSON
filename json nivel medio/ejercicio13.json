@@ -1,0 +1,13 @@
+{
+  "nombre": "Sofía Ramírez",
+  "materias": [
+    {
+      "nombre_materia": "Matemáticas",
+      "nota": 4.5
+    },
+    {
+      "nombre_materia": "Inglés",
+      "nota": 3.8
+    }
+  ]
+}

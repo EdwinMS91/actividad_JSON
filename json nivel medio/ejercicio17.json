@@ -1,0 +1,13 @@
+{
+  "producto": "Laptop",
+  "proveedores": [
+    {
+      "nombre": "Proveedor Uno",
+      "contacto": "3224567890"
+    },
+    {
+      "nombre": "Proveedor Dos",
+      "contacto": "3109988776"
+    }
+  ]
+}

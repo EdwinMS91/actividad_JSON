@@ -1,0 +1,11 @@
+{
+  "nombre": "Colegio San Marcos",
+  "direccion": "Av. Central #45-80",
+  "grados": [
+    "Primero",
+    "Segundo",
+    "Tercero",
+    "Cuarto",
+    "Quinto"
+  ]
+}

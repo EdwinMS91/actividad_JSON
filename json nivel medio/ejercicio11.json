@@ -1,0 +1,15 @@
+{
+  "nombre": "María López",
+  "direcciones": [
+    {
+      "ciudad": "Bogotá",
+      "calle": "Calle 45 #12-30",
+      "codigo_postal": "111221"
+    },
+    {
+      "ciudad": "Medellín",
+      "calle": "Carrera 80 #35-22",
+      "codigo_postal": "050034"
+    }
+  ]
+}

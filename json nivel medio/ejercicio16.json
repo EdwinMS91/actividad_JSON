@@ -1,0 +1,15 @@
+{
+  "destino": "Cartagena",
+  "fecha_salida": "2025-06-15",
+  "fecha_regreso": "2025-06-20",
+  "pasajeros": [
+    {
+      "nombre": "Luis Torres",
+      "edad": 35
+    },
+    {
+      "nombre": "Daniela Gómez",
+      "edad": 29
+    }
+  ]
+}

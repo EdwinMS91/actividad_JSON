@@ -1,0 +1,15 @@
+{
+  "usuario": "Natalia Ruiz",
+  "historial_compras": [
+    {
+      "fecha": "2025-02-10",
+      "producto": "Zapatos deportivos",
+      "valor_total": 180000
+    },
+    {
+      "fecha": "2025-02-20",
+      "producto": "Chaqueta impermeable",
+      "valor_total": 220000
+    }
+  ]
+}

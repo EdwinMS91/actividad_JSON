@@ -1,0 +1,14 @@
+{
+  "cliente": "Juan Pérez",
+  "productos": [
+    {
+      "nombre": "Teclado Mecánico",
+      "precio": 120000
+    },
+    {
+      "nombre": "Mouse Gamer",
+      "precio": 85000
+    }
+  ],
+  "total": 205000
+}
